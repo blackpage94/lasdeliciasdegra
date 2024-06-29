@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pastas &#8211; lasdeliciasdegra</title>
+	<atom:link href="https://lasdeliciasdegra.netlify.app/index.php/category/recetas/pastas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lasdeliciasdegra.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Jun 2024 20:09:58 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Ñoquis de queso crema.</title>
+		<link>https://lasdeliciasdegra.netlify.app/index.php/2024/06/24/noquis-de-queso-crema/</link>
+					<comments>https://lasdeliciasdegra.netlify.app/index.php/2024/06/24/noquis-de-queso-crema/#respond</comments>
+		
+		<dc:creator><![CDATA[rodrigo]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2024 20:09:58 +0000</pubDate>
+				<category><![CDATA[Pastas]]></category>
+		<category><![CDATA[Recetas]]></category>
+		<guid isPermaLink="false">https://lasdeliciasdegra.netlify.app/?p=271</guid>
+
+					<description><![CDATA[Rica receta de ñoquis, quedan muy livianos y suaves. Se puede usar queso crema entero o descremado para poder incluirlos en la dieta baja en calorías.También se pueden saborizar por ejemplo mezclar el queso crema con una cebolla rallada o con verdura de hoja cocidas procesadas, o puré de zapallo o calabaza (unas dos o [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Rica receta de ñoquis, quedan muy livianos y suaves. Se puede usar queso crema entero o descremado para poder incluirlos en la dieta baja en calorías.<br>También se pueden saborizar por ejemplo mezclar el queso crema con una cebolla rallada o con verdura de hoja cocidas procesadas, o puré de zapallo o calabaza (unas dos o tres cucharadas).</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="680" height="482" src="https://lasdeliciasdegra.netlify.app/wp-content/uploads/2024/06/noquis-de-queso-crema-foto-principal.png" alt="" class="wp-image-203"/></figure>
+
+
+
+<h2 class="wp-block-heading">Ingredientes.</h2>
+
+
+
+<ol>
+<li>500 g <a href="https://cookpad.com/ar/buscar/queso%20crema">queso crema</a></li>
+
+
+
+<li>1 <a href="https://cookpad.com/ar/buscar/huevo">huevo</a></li>
+
+
+
+<li>200 g harina 000 (un poco mas de harina extra por si falta)</li>
+
+
+
+<li>pimienta, nuez moscada, sal</li>
+
+
+
+<li>Salsa de tomate con pollo o carne (o la salsa que te guste)</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Pasos.</h2>
+
+
+
+<p>1 &#8211; Colocar en un bol el queso crema junto con la harina, condimentar con un poco sal, de pimienta y otro poquito de nuez moscada, agregar el huevo, mezclar bien estos ingredientes. Cuando ya está bien unida la masa, cortar trozos , y hacer como unos chorizos, que los cortaremos en trocitos del tamaño de un bocado. Pasarlos por el tenedor o ñoquera.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="160" height="128" src="https://lasdeliciasdegra.netlify.app/wp-content/uploads/2024/06/foto-del-paso-2-de-la-receta-noquis-de-queso-crema.png" alt="" class="wp-image-201"/></figure>
+
+
+
+<p>2 &#8211; Una vez listos lo vertemos en la olla con agua caliente , se cocinan muy rápido. Los vamos retirando a medida que suben a la superficie. Los colocamos en una fuente , y los cubrimos con la salsa de tomate o con la que te guste.</p>
+
+
+
+<p><a href="https://cookpad.com/ar/step_attachment/images/6e1d0d6152f05ca4"></a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="160" height="128" src="https://lasdeliciasdegra.netlify.app/wp-content/uploads/2024/06/foto-del-paso-3-de-la-receta-noquis-de-queso-crema.png" alt="" class="wp-image-202"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lasdeliciasdegra.netlify.app/index.php/2024/06/24/noquis-de-queso-crema/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
